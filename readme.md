@@ -21,6 +21,6 @@ This requires a tokens file with the following tokens:
 
     The plain-text password for the TFS agent service-account(s).
 
-** Modules
+## Modules
 
 Ensure the modules from the Modules-folder are installed. Either from the Modules-folder, or the PowerShell Gallery; if available there.
